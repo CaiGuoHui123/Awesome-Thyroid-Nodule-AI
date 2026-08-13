@@ -86,7 +86,7 @@ Foundational methodological papers published outside the main literature-search 
 
 The following studies constitute the core literature reviewed in our work.
 
-The repository is being populated progressively. Categories marked as **Work in Progress** will be expanded as the corresponding records are cross-checked against the final review database.
+The repository is being populated progressively. Literature lists that are not yet complete will be expanded as the corresponding records are cross-checked against the final review database.
 
 ---
 
@@ -628,3 +628,4 @@ The complete bibliographic information will be updated after formal publication.
   author = {Cai, Guohui and others},
   year   = {2026}
 }
+```
