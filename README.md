@@ -170,16 +170,42 @@ The remaining studies are being added after final cross-checking against the rev
 
 ## Segmentation (n=25)
 
-Thyroid nodule segmentation studies focus on pixel-level delineation of nodule boundaries, including U-Net-based architectures, multiscale learning, attention mechanisms, boundary modeling, weak supervision, domain adaptation, and federated learning.
+Studies in this category focus on pixel-level delineation of thyroid nodules and related anatomical structures. The methodological evolution includes U-Net-based architectures, weak and interactive supervision, multiscale feature learning, attention mechanisms, boundary-aware modeling, segmentation-diagnosis joint learning, multicenter validation, and federated learning.
+
+**Currently listed: 11 of 25 studies.**
+
+The remaining studies are being progressively added after cross-checking their primary research tasks and publication metadata against the final review database.
 
 <details>
-<summary><b>Show status</b></summary>
+<summary><b>Show currently available papers</b></summary>
 
 <br>
 
-> **Work in Progress**
->
-> Segmentation studies are currently being cross-checked against the final review database and will be added progressively.
+- **2020** — Buda et al. **Deep Learning-Based Segmentation of Nodules in Thyroid Ultrasound: Improving Performance by Utilizing Markers Present in the Images.** *Ultrasound in Medicine & Biology*. [Paper](https://doi.org/10.1016/j.ultrasmedbio.2019.10.003)
+
+- **2020** — Kumar et al. **Automated Segmentation of Thyroid Nodule, Gland, and Cystic Components From Ultrasound Images Using Deep Learning.** *IEEE Access*. [Paper](https://doi.org/10.1109/ACCESS.2020.2982390)
+
+- **2022** — Nie et al. **N-Net: A Novel Dense Fully Convolutional Neural Network for Thyroid Nodule Segmentation.** *Frontiers in Neuroscience*. [Paper](https://doi.org/10.3389/fnins.2022.872601)
+
+- **2023** — Wang et al. **DPAM-PSPNet: Ultrasonic Image Segmentation of Thyroid Nodule Based on Dual-Path Attention Mechanism.** *Physics in Medicine & Biology*. [Paper](https://doi.org/10.1088/1361-6560/ace6f1)
+
+- **2024** — Dai et al. **SK-Unet++: An Improved Unet++ Network With Adaptive Receptive Fields for Automatic Segmentation of Ultrasound Thyroid Nodule Images.** *Medical Physics*. [Paper](https://doi.org/10.1002/mp.16672)
+
+- **2024** — İnan et al. **Multi-Class Classification of Thyroid Nodules From Automatic Segmented Ultrasound Images: Hybrid ResNet Based UNet Convolutional Neural Network Approach.** *Computer Methods and Programs in Biomedicine*. [Paper](https://doi.org/10.1016/j.cmpb.2023.107921)
+
+- **2024** — Liu et al. **Shape-Margin Knowledge Augmented Network for Thyroid Nodule Segmentation and Diagnosis.** *Computer Methods and Programs in Biomedicine*. [Paper](https://doi.org/10.1016/j.cmpb.2023.107999)
+
+- **2025** — Cozzi et al. **Multi-Institutional Development and Testing of Attention-Enhanced Deep Learning Segmentation of Thyroid Nodules on Ultrasound.** *International Journal of Computer Assisted Radiology and Surgery*. [Paper](https://doi.org/10.1007/s11548-024-03294-w)
+
+- **2025** — Jassal et al. **Attention-Based Image Segmentation and Classification Model for the Preoperative Risk Stratification of Thyroid Nodules.** *World Journal of Surgery*. [Paper](https://doi.org/10.1002/wjs.12464)
+
+- **2025** — Xiang et al. **Federated Learning via Multi-Attention Guided UNet for Thyroid Nodule Segmentation of Ultrasound Images.** *Neural Networks*. [Paper](https://doi.org/10.1016/j.neunet.2024.106754)
+
+- **2026** — Li et al. **Development and Validation of an Automated Computed Tomography Segmentation Model for Thyroid Nodules Using a Channel Attention High-Resolution Network.** *Gland Surgery*. [Paper](https://doi.org/10.21037/gs-2026-0162)
+
+<br>
+
+> **More segmentation studies will be added progressively as the literature database is continuously cross-checked and updated.**
 
 </details>
 
