@@ -213,16 +213,54 @@ The remaining studies are being progressively added after cross-checking their p
 
 ## Classification & Malignancy Risk Prediction (n=40)
 
-This category includes traditional machine learning, radiomics, convolutional neural networks, transfer learning, Transformer-based approaches, multimodal prediction, and clinically oriented malignancy risk models.
+Studies in this category focus on benign-malignant classification and clinically relevant malignancy risk prediction using ultrasound, CT, radiomics, deep learning, multimodal imaging, cytology, clinical variables, and emerging weakly supervised or explainable learning strategies.
+
+The reviewed studies also include challenging clinical scenarios such as TI-RADS category 4 nodules, Hashimoto's thyroiditis, calcified nodules, hypervascular nodules, large nodules, and indeterminate cytology.
+
+**Currently listed: 16 of 40 studies.**
+
+The remaining studies are being progressively added after cross-checking their primary tasks, publication metadata, validation design, and overlap with other categories in the review.
 
 <details>
-<summary><b>Show status</b></summary>
+<summary><b>Show currently available papers</b></summary>
 
 <br>
 
-> **Work in Progress**
->
-> Classification and malignancy risk prediction studies are currently being cross-checked and will be added progressively.
+- **2025** — Chu et al. **Deep Learning Model for Malignancy Prediction of TI-RADS 4 Thyroid Nodules With High-Risk Characteristics Using Multimodal Ultrasound: A Multicentre Study.** *Computerized Medical Imaging and Graphics*. [Paper](https://doi.org/10.1016/j.compmedimag.2025.102576)
+
+- **2025** — He et al. **CT-Based Explainable Machine Learning for Predicting Benign and Malignant Thyroid Nodules: A Multi-Center Study.** *Frontiers in Oncology*. [Paper](https://doi.org/10.3389/fonc.2025.1675943)
+
+- **2025** — Lou et al. **Cytological Classification Diagnosis for Thyroid Nodules via Multimodal Model Deep Learning.** *Advanced Science*. [Paper](https://doi.org/10.1002/advs.202511369)
+
+- **2025** — Ma et al. **An Interpretable Multimodal Machine Learning Model for Predicting Malignancy of Thyroid Nodules in Low-Resource Scenarios.** *BMC Endocrine Disorders*. [Paper](https://doi.org/10.1186/s12902-025-02031-x)
+
+- **2025** — Qian et al. **Malignancy Prediction for Calcified Thyroid Nodules Using Deep Learning Based on Ultrasound Dynamic Videos.** *Cancer Imaging*. [Paper](https://doi.org/10.1186/s40644-025-00944-3)
+
+- **2025** — Rashed et al. **Enhancing Automatic Diagnosis of Thyroid Nodules From Ultrasound Scans Leveraging Deep Learning Models.** *Scientific Reports*. [Paper](https://doi.org/10.1038/s41598-025-25780-0)
+
+- **2025** — Wang et al. **Diagnostic Value of a Dynamic Artificial Intelligence-Based, Ultrasound-Assisted Diagnostic System in Differentiating Between Benign and Malignant Thyroid Nodules With a Diameter Greater Than 2 cm.** *Quantitative Imaging in Medicine and Surgery*. [Paper](https://doi.org/10.21037/qims-2025-253)
+
+- **2025** — Zhong et al. **An Ultrasound Image-Based Deep Learning Radiomics Nomogram for Differentiating Between Benign and Malignant Indeterminate Cytology (Bethesda III) Thyroid Nodules: A Retrospective Study.** *Journal of Clinical Ultrasound*. [Paper](https://doi.org/10.1002/jcu.24058)
+
+- **2025** — Zou et al. **Enhancing Diagnostic Precision for Thyroid C-TIRADS Category 4 Nodules: A Hybrid Deep Learning and Machine Learning Model Integrating Grayscale and Elastographic Ultrasound Features.** *Quantitative Imaging in Medicine and Surgery*. [Paper](https://doi.org/10.21037/qims-2025-594)
+
+- **2026** — Wu et al. **Revolutionizing Thyroid Nodule Diagnosis in Hashimoto's Thyroiditis: AI-Driven Radiomics and Deep Learning Model.** *International Journal of Surgery*. [Paper](https://doi.org/10.1097/JS9.0000000000004546)
+
+- **2026** — Ding et al. **Diagnostic Performance of Multimodal Ultrasound-Based Deep Learning Models in Differentiating Benign and Malignant Thyroid Nodules.** *Frontiers in Oncology*. [Paper](https://doi.org/10.3389/fonc.2026.1754676)
+
+- **2026** — Hou et al. **Pathological Diagnosis of Thyroid Nodules Directly From Ultrasonography by a Weakly Supervised Deep Learning Framework.** *Frontiers in Endocrinology*. [Paper](https://doi.org/10.3389/fendo.2026.1834977)
+
+- **2026** — Liu et al. **A Dual-Branch Deep Learning Framework With Mask-Guided Attention for Thyroid Nodule Classification in Ultrasound Images.** *Frontiers in Medicine*. [Paper](https://doi.org/10.3389/fmed.2026.1694174)
+
+- **2026** — Reiner et al. **Improving Non-Invasive Prediction of Thyroid Nodule Malignancy: A Machine Learning-Based Clinical Approach.** *Cancer Management and Research*. [Paper](https://doi.org/10.2147/CMAR.S571308)
+
+- **2026** — Saini et al. **Deep Learning-Based Classification of Thyroid Nodules Using Uncertainty-Aware Multi-Modal Ultrasound Imaging.** *Scientific Reports*. [Paper](https://doi.org/10.1038/s41598-026-35965-w)
+
+- **2026** — Salmanpour et al. **A Clinically Anchored Radiomics Dictionary for Explainable TI-RADS-Based Thyroid Nodule Classification in Ultrasound; Dictionary Version TU1.0.** *European Journal of Radiology*. [Paper](https://doi.org/10.1016/j.ejrad.2026.113014)
+
+<br>
+
+> **More classification and malignancy risk prediction studies will be added progressively as the literature database is continuously cross-checked and updated.**
 
 </details>
 
@@ -230,16 +268,44 @@ This category includes traditional machine learning, radiomics, convolutional ne
 
 ## TI-RADS & Risk Stratification (n=12)
 
-This category covers automatic ultrasound feature recognition, TI-RADS descriptor prediction, risk category assignment, guideline-oriented decision support, and AI-assisted risk stratification.
+Studies in this category focus on AI-assisted TI-RADS assessment, fine-grained malignancy risk estimation, optimization of TI-RADS scoring rules, multimodal characterization of indeterminate nodules, biopsy-oriented decision support, and broader clinical risk stratification.
+
+This category includes both AI models that analyze imaging or multimodal information and machine-learning approaches that optimize existing TI-RADS feature weights or scoring systems.
+
+**Complete: 12 of 12 studies currently included in the review.**
 
 <details>
-<summary><b>Show status</b></summary>
+<summary><b>Show 12 papers</b></summary>
 
 <br>
 
-> **Work in Progress**
->
-> TI-RADS and risk stratification studies are currently being cross-checked and will be added progressively.
+- **2023** — Gong et al. **Diagnostic Value of Artificial Intelligence-Assistant Diagnostic System Combined With Contrast-Enhanced Ultrasound in Thyroid TI-RADS 4 Nodules.** *Journal of Ultrasound in Medicine*. [Paper](https://doi.org/10.1002/jum.16170)
+
+- **2023** — Ha et al. **Development of a Machine Learning-Based Fine-Grained Risk Stratification System for Thyroid Nodules Using Predefined Clinicoradiological Features.** *European Radiology*. [Paper](https://doi.org/10.1007/s00330-022-09376-0)
+
+- **2024** — Chen et al. **Applying Machine-Learning Models to Differentiate Benign and Malignant Thyroid Nodules Classified as C-TIRADS 4 Based on 2D-Ultrasound Combined With Five Contrast-Enhanced Ultrasound Key Frames.** *Frontiers in Endocrinology*. [Paper](https://doi.org/10.3389/fendo.2024.1299686)
+
+- **2024** — Li et al. **Enhancing Malignancy Prediction in Thyroid Nodules: A Multimodal Ultrasound Radiomics Approach in TI-RADS Category 4 Lesions.** *Journal of Clinical Ultrasound*. [Paper](https://doi.org/10.1002/jcu.23662)
+
+- **2024** — Wang et al. **Study on Diagnosing Thyroid Nodules of ACR TI-RADS 4–5 With Multimodal Ultrasound Radiomics Technology.** *Journal of Clinical Ultrasound*. [Paper](https://doi.org/10.1002/jcu.23625)
+
+- **2024** — Wildman-Tobriner et al. **Simplifying Risk Stratification for Thyroid Nodules on Ultrasound: Validation and Performance of an Artificial Intelligence Thyroid Imaging Reporting and Data System.** *Current Problems in Diagnostic Radiology*. [Paper](https://doi.org/10.1067/j.cpradiol.2024.07.006)
+
+- **2025** — Athreya et al. **Combining Ultrasound Imaging and Molecular Testing in a Multimodal Deep Learning Model for Risk Stratification of Indeterminate Thyroid Nodules.** *Thyroid*. [Paper](https://doi.org/10.1089/thy.2024.0584)
+
+- **2025** — Barzegar-Golmoghani et al. **ELTIRADS Framework for Thyroid Nodule Classification Integrating Elastography, TIRADS, and Radiomics With Interpretable Machine Learning.** *Scientific Reports*. [Paper](https://doi.org/10.1038/s41598-025-93226-8)
+
+- **2025** — Cui et al. **The Value of a Combined Model Based on Ultra-Radiomics and Multi-Modal Ultrasound in the Benign-Malignant Differentiation of C-TIRADS 4A Thyroid Nodules: A Prospective Multicenter Study.** *Frontiers in Oncology*. [Paper](https://doi.org/10.3389/fonc.2025.1543020)
+
+- **2025** — David et al. **Thyroid Nodule Characterization: Which Thyroid Imaging Reporting and Data System (TIRADS) Is More Accurate? A Comparison Between Radiologists With Different Experiences and Artificial Intelligence Software.** *Diagnostics*. [Paper](https://doi.org/10.3390/diagnostics15162108)
+
+- **2025** — Guo et al. **Optimizing C-TIRADS for Sub-Centimeter Thyroid Nodules Using Machine Learning-Derived Feature Importance.** *Frontiers in Endocrinology*. [Paper](https://doi.org/10.3389/fendo.2025.1668347)
+
+- **2026** — Bozkuş et al. **Comparison of the Diagnostic Performance of the Artificial Intelligence-Based TIRADS Algorithm With Established Classification Systems for Thyroid Nodules.** *Diagnostic and Interventional Radiology*. [Paper](https://doi.org/10.4274/dir.2025.253428)
+
+<br>
+
+> This category is currently complete according to the literature classification used in the accompanying review. Future updates may include newly published studies beyond the current review search period.
 
 </details>
 
@@ -247,16 +313,42 @@ This category covers automatic ultrasound feature recognition, TI-RADS descripto
 
 ## Multitask & Multimodal Learning (n=11)
 
-This category includes models that jointly optimize multiple diagnostic tasks or integrate complementary information from conventional ultrasound, elastography, contrast-enhanced ultrasound, clinical variables, cytology, molecular information, and other data sources.
+Studies in this category focus on jointly learning multiple clinically related tasks or integrating complementary information from different imaging modalities, structured ultrasound descriptors, clinical variables, and text.
+
+Multitask learning mainly aims to exploit relationships among segmentation, classification, TI-RADS feature recognition, and risk prediction, whereas multimodal learning combines heterogeneous information such as conventional ultrasound, elastography, contrast-enhanced ultrasound, clinical variables, and textual information.
+
+**Currently listed: 10 of 11 studies.**
+
+The remaining study is being cross-checked against the final task classification used in the accompanying review.
 
 <details>
-<summary><b>Show status</b></summary>
+<summary><b>Show currently available papers</b></summary>
 
 <br>
 
-> **Work in Progress**
->
-> Multitask and multimodal studies are currently being cross-checked and will be added progressively.
+- **2022** — Kang et al. **Thyroid Nodule Segmentation and Classification in Ultrasound Images Through Intra- and Inter-Task Consistent Learning.** *Medical Image Analysis*. [Paper](https://doi.org/10.1016/j.media.2022.102443)
+
+- **2022** — Deng et al. **Automatic Classification of Thyroid Nodules in Ultrasound Images Using a Multi-Task Attention Network Guided by Clinical Knowledge.** *Computers in Biology and Medicine*. [Paper](https://doi.org/10.1016/j.compbiomed.2022.106172)
+
+- **2023** — Gao et al. **Clinical Knowledge Embedded Method Based on Multi-Task Learning for Thyroid Nodule Classification With Ultrasound Images.** *Physics in Medicine & Biology*. [Paper](https://doi.org/10.1088/1361-6560/acb481)
+
+- **2023** — Chen et al. **Joint Segmentation and Differential Diagnosis of Thyroid Nodule in Contrast-Enhanced Ultrasound Images.** *IEEE Transactions on Biomedical Engineering*. [Paper](https://doi.org/10.1109/TBME.2023.3262842)
+
+- **2024** — Wang et al. **Multimodal Ultrasound Radiomic Technology for Diagnosing Benign and Malignant Thyroid Nodules of TI-RADS 4-5: A Multicenter Study.** *Sensors*. [Paper](https://doi.org/10.3390/s24196203)
+
+- **2025** — Chen et al. **Improving the Diagnostic Strategy for Thyroid Nodules: A Combination of Artificial Intelligence-Based Computer-Aided Diagnosis System and Shear Wave Elastography.** *Endocrine*. [Paper](https://doi.org/10.1007/s12020-024-04053-2)
+
+- **2025** — Sng et al. **A Multimodal Large Language Model as an End-to-End Classifier of Thyroid Nodule Malignancy Risk: Usability Study.** *JMIR Formative Research*. [Paper](https://doi.org/10.2196/70863)
+
+- **2025** — Xiao et al. **A Multi-Modal Prompt-Tuning Method of Ultrasound Diagnosis for Thyroid Nodule.** *Frontiers in Medicine*. [Paper](https://doi.org/10.3389/fmed.2025.1686374)
+
+- **2026** — Li et al. **Differentiating Mummified Thyroid Nodules From Papillary Thyroid Carcinoma: A Machine Learning Approach Using Multi-Modal Ultrasound Radiomics.** *Ultrasound in Medicine & Biology*. [Paper](https://doi.org/10.1016/j.ultrasmedbio.2026.05.007)
+
+- **2026** — Xiang et al. **ThyroFusion: A Multi-Modal Deep Learning Framework Integrating Vision and Language for Thyroid Nodule Malignancy Risk Assessment.** *Journal of Imaging Informatics in Medicine*. [Paper](https://doi.org/10.1007/s10278-026-01964-6)
+
+<br>
+
+> **More studies will be added progressively as the final primary-task classification is cross-checked and updated.**
 
 </details>
 
@@ -264,16 +356,38 @@ This category includes models that jointly optimize multiple diagnostic tasks or
 
 ## Clinical Validation & Human-AI Collaboration (n=12)
 
-This category focuses on external validation, cross-center evaluation, physician comparison, reader studies, prospective clinical assessment, workflow integration, and human-AI collaboration.
+Studies in this category focus on the clinical evaluation of artificial intelligence beyond standalone algorithm performance, including external validation, physician comparison, human-AI collaboration, reader studies, workflow efficiency, educational support, management outcomes, and the stability of emerging AI systems.
+
+Particular attention is given to whether AI performance remains stable across institutions and clinical settings, whether AI provides different benefits to junior and senior physicians, and whether algorithmic improvements translate into meaningful clinical or workflow outcomes.
+
+**Currently listed: 8 of 12 studies.**
+
+The remaining studies are being cross-checked carefully to avoid duplicate counting with classification, TI-RADS, and other task-specific categories.
 
 <details>
-<summary><b>Show status</b></summary>
+<summary><b>Show currently available papers</b></summary>
 
 <br>
 
-> **Work in Progress**
->
-> Clinical validation, physician comparison, and human-AI collaboration studies are currently being cross-checked and will be added progressively.
+- **2022** — Kim et al. **Deep Convolutional Neural Network for Classification of Thyroid Nodules on Ultrasound: Comparison of the Diagnostic Performance With That of Radiologists.** *European Journal of Radiology*. [Paper](https://doi.org/10.1016/j.ejrad.2022.110335)
+
+- **2023** — Tong et al. **Integration of Artificial Intelligence Decision Aids to Reduce Workload and Enhance Efficiency in Thyroid Nodule Management.** *JAMA Network Open*. [Paper](https://doi.org/10.1001/jamanetworkopen.2023.13674)
+
+- **2023** — Gomes Ataide et al. **Thyroid Nodule Detection and Region Estimation in Ultrasound Images: A Comparison between Physicians and an Automated Decision Support System Approach.** *Diagnostics*. [Paper](https://doi.org/10.3390/diagnostics13182873)
+
+- **2024** — Lee et al. **Improving the Diagnostic Performance of Inexperienced Readers for Thyroid Nodules Through Digital Self-Learning and Artificial Intelligence Assistance.** *Frontiers in Endocrinology*. [Paper](https://doi.org/10.3389/fendo.2024.1372397)
+
+- **2024** — Xu et al. **The Clinical Value of Artificial Intelligence in Assisting Junior Radiologists in Thyroid Ultrasound: A Multicenter Prospective Study From Real Clinical Practice.** *BMC Medicine*. [Paper](https://doi.org/10.1186/s12916-024-03510-z)
+
+- **2025** — Ni et al. **Optimizing Thyroid Nodule Management With Artificial Intelligence: Multicenter Retrospective Study on Reducing Unnecessary Fine Needle Aspirations.** *JMIR Medical Informatics*. [Paper](https://doi.org/10.2196/71740)
+
+- **2025** — Zhou et al. **A Deep Learning Based Ultrasound Diagnostic Tool Driven by 3D Visualization of Thyroid Nodules.** *npj Digital Medicine*. [Paper](https://doi.org/10.1038/s41746-025-01455-y)
+
+- **2026** — Xie et al. **The Performance of ChatGPT-4o and DeepSeek-R1 in Interpreting Thyroid Nodule Ultrasound Text Reports: Multicenter Study.** *Journal of Medical Internet Research*. [Paper](https://doi.org/10.2196/93890)
+
+<br>
+
+> **More clinical validation and human-AI collaboration studies will be added after final cross-checking of primary-task assignments.**
 
 </details>
 
